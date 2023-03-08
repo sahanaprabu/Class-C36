@@ -1,2 +1,2 @@
-# Class-C36
-Multiplayer Car Racer
+# C36RV_SpeedRacer_StudentActivity
+Student Activity
